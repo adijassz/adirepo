@@ -1,73 +1,55 @@
-﻿#EXTM3U
-#EXTINF:-1,RTK
-http://str105mb.setplex.net:1935/str2iosmd5/rtk_232_4dfaa/playlist.m3u8
-#EXTINF:-1,Alsat M
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_alsatm_430958392/playlist.m3u8
-#EXTINF:-1,Albanian Screen
-http://str105mb.setplex.net:1935/str2iosmd5//25albanianscreen/playlist.m3u8
-#EXTINF:-1,Agon Channel
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_agontv_34536544/playlist.m3u8
-#EXTINF:-1,MKTV2
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_MKTV2_32289956/playlist.m3u8
-#EXTINF:-1,News TV
-http://str105mb.setplex.net:1935/str2iosmd5/33ios_newstv_23652182/playlist.m3u8
-#EXTINF:-1,Supersonic TV
-http://str105mb.setplex.net:1935/str2iosmd5/2ios9ew/playlist.m3u8
-#EXTINF:-1,ERA TV
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_era_tv_6575678564/playlist.m3u8
-#EXTINF:-1,Vizion Plus
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_vizionplus_85674923/playlist.m3u8
-#EXTINF:-1,Klan Kosova
-http://str105mb.setplex.net:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
-#EXTINF:-1,Super Folk
-http://str105mb.setplex.net:1935/str2iosmd5/11ios_stvfolk_32236215/playlist.m3u8
-#EXTINF:-1,Folk Plus
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/playlist.m3u8
-#EXTINF:-1,Alb Popullore
-http://str105mb.setplex.net:1935/str2iosmd5/13ios_albpop_23165498/playlist.m3u8
-#EXTINF:-1,Alb Info
-http://str105mb.setplex.net:1935/str2iosmd5/stralbinfo_2654_dfs/playlist.m3u8
-#EXTINF:-1,BBF TV
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_bbf_45908339/playlist.m3u8
-#EXTINF:-1,TV Teuta
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_tvteuta_34654675644/playlist.m3u8
-#EXTINF:-1,Albanian Culture NY
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_albanianScreen_32992956/playlist.m3u8
-#EXTINF:-1,TV Kopliku
-http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
-#EXTINF:-1,AA Vizion
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_aavizion_223653126/playlist.m3u8
-#EXTINF:-1,Art Kanal
-http://str105mb.setplex.net:1935/str2iosmd5/19ios_artkanal_31469877/playlist.m3u8
-#EXTINF:-1,TV Dukagjini
-http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/playlist.m3u8
-#EXTINF:-1,TV Globi
-http://str105mb.setplex.net:1935/str2iosmd5/22ios_tvglobe_236549153/playlist.m3u8
-#EXTINF:-1,Syri Vizion
-http://str105mb.setplex.net:1935/str2iosmd5/21ios_tvsyrivis_13226654/playlist.m3u8
-#EXTINF:-1,TV Mitrovica
-http://str105mb.setplex.net:1935/str2iosmd5/22ios_tvmitrovica_65499873/playlist.m3u8
-#EXTINF:-1,TV Boin
-http://str105mb.setplex.net:1935/str2iosmd5/15ios_tvboin_32649785/playlist.m3u8
-#EXTINF:-1,A-Mol TV
-http://str105mb.setplex.net:1935/str2iosmd5/25ios_amoltv_32655893/playlist.m3u8
-#EXTINF:-1,TV Rozafa
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/playlist.m3u8
-#EXTINF:-1,Apollon
-http://str105mb.setplex.net:1935/str2iosmd5/7ios_apollom_348957345/playlist.m3u8
-#EXTINF:-1,AA News
-http://str105mb.setplex.net:1935/str2iosmd5/spali_6252_gsdf/playlist.m3u8 (AA News)
-#EXTINF:-1,Cegrani Media TV
-http://str105mb.setplex.net:1935/str2iosmd5/cergrani_media_tv_145trs/playlist.m3u8
-#EXTINF:-1,Zico TV
-http://str105mb.setplex.net:1935/str2iosmd5/zicoTV_652_4dfaa/playlist.m3u8
-#EXTINF:-1,TV Diaspora Gjermani
-http://str105mb.setplex.net:1935/str2iosmd5/tvdiaspora_de/playlist.m3u8
-#EXTINF:-1,Dasma TV
-http://str105mb.setplex.net:1935/str2iosmd5/dasmatv_win1_203/playlist.m3u8
-#EXTINF:-1,TV Iliret
-http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u8
-#EXTINF:-1,Blue Sky TV
-http://str105mb.setplex.net:1935/str2iosmd5/blueskytv_265265_266548/playlist.m3u8
-#EXTINF:-1,TV Koha
-http://str105mb.setplex.net:1935/str2iosmd5/tv_koha_ams228/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,Sky DE Sport 1 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1344.ts
+#EXTINF:-1,Sky DE Sport 2 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1345.ts
+#EXTINF:-1,Sky DE NatGeo Wild HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1343.ts
+#EXTINF:-1,Sky DE Nat Geo HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1342.ts
+#EXTINF:-1,Sky DE Hits HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1341.ts
+#EXTINF:-1,Sky DE Emotion
+http://151.80.96.62:15003/live/elpidio/elpidio/1340.ts
+#EXTINF:-1,Sky DE Discovery Channel HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1339.ts
+#EXTINF:-1,Sky DE Comedy
+http://151.80.96.62:15003/live/elpidio/elpidio/1338.ts
+#EXTINF:-1,Sky DE Cinema 24
+http://151.80.96.62:15003/live/elpidio/elpidio/1337.ts
+#EXTINF:-1,Sky DE Cinema 1
+http://151.80.96.62:15003/live/elpidio/elpidio/1336.ts
+#EXTINF:-1,Sky DE Cinema
+http://151.80.96.62:15003/live/elpidio/elpidio/1335.ts
+#EXTINF:-1,Sky DE Atlantic HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1329.ts
+#EXTINF:-1,Sky DE Action
+http://151.80.96.62:15003/live/elpidio/elpidio/1328.ts
+#EXTINF:-1,Sky DE Bundesliga 1 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1330.ts
+#EXTINF:-1,Sky DE Bundesliga 2 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1331.ts
+#EXTINF:-1,Sky DE Bundesliga 3 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1332.ts
+#EXTINF:-1,Sky DE Bundesliga 4 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1333.ts
+#EXTINF:-1,Sky DE Bundesliga 5 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1334.ts
+#EXTINF:-1,DE Sky Select 1 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1457.ts
+#EXTINF:-1,DE Sky Select 2 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1456.ts
+#EXTINF:-1,DE Sky Select 3 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1455.ts
+#EXTINF:-1,DE Sky Select 4 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1454.ts
+#EXTINF:-1,DE Sky Select 5 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1453.ts
+#EXTINF:-1,DE Sky Select 6 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1452.ts
+#EXTINF:-1,DE Sky Select 7 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1451.ts
+#EXTINF:-1,DE Sky Select 8 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1450.ts
+#EXTINF:-1,DE Sky Select 9 HD
+http://151.80.96.62:15003/live/elpidio/elpidio/1449.ts
