@@ -38,6 +38,8 @@ http://62.65.140.155:80/session/a7945df4-8afa-11e5-b49a-005056bc06d1/nvnv5a/2/40
 http://62.65.140.216:80/session/c810fce0-8afa-11e5-b49a-005056bc06d1/nvnv5a/2/4008/1368000/index.m3u8
 #EXTINF:-1,ADI:CNBC
 http://62.65.140.215:80/session/dc10482c-8afa-11e5-b49a-005056bc06d1/nvnv5a/2/4001/1368000/index.m3u8
-#EXTINF:-1,ADI:to be continued
+#EXTINF:-1,ADI:RTV SLON (EX-YU Cannels)
+http://xtv_slon_extrax.api.channel.livestream.com/3.0/playlist.m3u8
+
 
 
