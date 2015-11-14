@@ -9,5 +9,20 @@ http://62.65.140.148:80/session/01f19474-8af6-11e5-bca1-005056bc1a52/nvnv5a/1/10
 http://62.65.140.219:80/session/5632bb76-8af6-11e5-972c-005056bc1a52/nvnv5a/1/1117/1368000/index.m3u8
 #EXTINF:-1,ADI: MTV
 http://62.65.140.152:80/session/934819d4-8af6-11e5-babb-005056bc49ac/nvnv5a/1/1033/1368000/index.m3u8
-#EXTINF:-1,ADI: GULER EAT SHIT
+#EXTINF:-1,ADI: K11 Special
+http://62.65.140.150:80/session/6ae8efe4-8af7-11e5-98fd-005056bc1a52/nvnv5a/1/1038/1368000/index.m3u8
+#EXTINF:-1,ADI: 4+ HD
+http://62.65.140.154:80/session/ae6bda1a-8af7-11e5-98fd-005056bc1a52/nvnv5a/1/1031/1368000/index.m3u8
+#EXTINF:-1,ADI: Euro Sport
+http://62.65.140.153:80/session/eb2e581a-8af7-11e5-be70-005056bc1a52/nvnv5a/1/1051/1368000/index.m3u8
+#EXTINF:-1,ADI: VOX
+http://62.65.140.217:80/session/1367ccc6-8af8-11e5-9600-005056bc1a52/nvnv5a/1/1021/1368000/index.m3u8
+#EXTINF:-1,ADI: Disney
+http://62.65.140.150:80/session/6316b5a2-8af8-11e5-9bc3-005056bc06d1/nvnv5a/1/1124/1368000/index.m3u8
+#EXTINF:-1,ADI: 7MAX
+http://62.65.140.155:80/session/933d5ba0-8af8-11e5-9bc3-005056bc06d1/nvnv5a/1/1041/1368000/index.m3u8
+
+==UK Channels==
+#EXTINF:-1,ADI: BBC One
+http://62.65.140.214:80/session/361960b2-8af9-11e5-91ef-005056bc06d1/nvnv5a/2/4017/1368000/index.m3u8
 
