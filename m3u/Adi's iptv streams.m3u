@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ADI: RTL HD (German)
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0080.png",[COLOR orange]RTL HD[/COLOR]
 http://62.65.140.154:80/session/6bc2be48-8af4-11e5-8f88-005056bc49ac/nvnv5a/1/1020/1368000/index.m3u8"
 #EXTINF:-1,ADI: SuperRTL HD 
 http://62.65.140.215:80/session/45dad0f6-8b0a-11e5-9fa8-005056bc1a52/nvnv5a/1/1023/1368000/index.m3u8
