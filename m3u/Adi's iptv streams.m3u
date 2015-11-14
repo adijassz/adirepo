@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ADI: RTL HD (German)
 #EXTINF:-1 group-title="Deutsch",[COLOR orange]RTL HD[/COLOR]
 http://62.65.140.154:80/session/6bc2be48-8af4-11e5-8f88-005056bc49ac/nvnv5a/1/1020/1368000/index.m3u8"
 #EXTINF:-1,ADI: SuperRTL HD 
