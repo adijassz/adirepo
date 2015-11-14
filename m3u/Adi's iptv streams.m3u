@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,ADI: RTL HD (German)
 http://62.65.140.154:80/session/6bc2be48-8af4-11e5-8f88-005056bc49ac/nvnv5a/1/1020/1368000/index.m3u8"
+#EXTINF:-1,ADI: SuperRTL HD 
+http://62.65.140.215:80/session/45dad0f6-8b0a-11e5-9fa8-005056bc1a52/nvnv5a/1/1023/1368000/index.m3u8
 #EXTINF:-1,ADI: RTL II HD
 http://62.65.140.151:80/session/53573324-8af5-11e5-96cd-005056bc1a52/nvnv5a/1/1024/1368000/index.m3u8
 #EXTINF:-1,ADI: PRO 7
@@ -21,6 +23,24 @@ http://62.65.140.217:80/session/1367ccc6-8af8-11e5-9600-005056bc1a52/nvnv5a/1/10
 http://62.65.140.150:80/session/6316b5a2-8af8-11e5-9bc3-005056bc06d1/nvnv5a/1/1124/1368000/index.m3u8
 #EXTINF:-1,ADI: 7MAX
 http://62.65.140.155:80/session/933d5ba0-8af8-11e5-9bc3-005056bc06d1/nvnv5a/1/1041/1368000/index.m3u8
+#EXTINF:-1,ADI:Kabel 1
+http://62.65.140.148:80/session/cf97e63a-8b0a-11e5-9fa8-005056bc1a52/nvnv5a/1/1039/1368000/index.m3u8
+#EXTINF:-1,ADI:SRF2
+http://62.65.140.217:80/session/0f2bd040-8b0b-11e5-9fa8-005056bc1a52/nvnv5a/1/1009/1368000/index.m3u8
+#EXTINF:-1,ADI:DMAX
+http://62.65.140.151:80/session/343e9e4e-8b0b-11e5-9fa8-005056bc1a52/nvnv5a/1/1018/1368000/index.m3u8
+#EXTINF:-1,ADI:RTLNITRO
+http://62.65.140.151:80/session/631c801e-8b0b-11e5-9fa8-005056bc1a52/nvnv5a/1/1027/1368000/index.m3u8
+#EXTINF:-1,ADI:VIVA
+http://62.65.140.149:80/session/9d4d2fe0-8b0b-11e5-9fa8-005056bc1a52/nvnv5a/1/1014/1368000/index.m3u8
+#EXTINF:-1,ADI:N-TV
+http://62.65.140.149:80/session/db9abed4-8b0b-11e5-af91-005056bc49ac/nvnv5a/1/1025/1368000/index.m3u8
+#EXTINF:-1,ADI:DeluxMusic
+http://62.65.140.217:80/session/fff930da-8b0b-11e5-af91-005056bc49ac/nvnv5a/1/1153/1368000/index.m3u8
+#EXTINF:-1,ADI:Tele5
+http://62.65.140.213:80/session/3dccea6e-8b0c-11e5-af91-005056bc49ac/nvnv5a/1/1090/1368000/index.m3u8
+#EXTINF:-1,ADI:Nickeldeon
+http://62.65.140.218:80/session/62cc7c12-8b0c-11e5-9157-005056bc49ac/nvnv5a/1/1004/1368000/index.m3u8
 
 #EXTINF:-1,ADI: BBC One (English)
 http://62.65.140.214:80/session/361960b2-8af9-11e5-91ef-005056bc06d1/nvnv5a/2/4017/1368000/index.m3u8
