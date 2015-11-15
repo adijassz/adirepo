@@ -1,7 +1,7 @@
 #EXTM3U tvg-shift=1
-#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]IPTVSAGA (Marcello)[/COLOR]
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]IPTVSAGA (Adi)[/COLOR]
 https://#
-#EXTINF:-1 tvg-id=“vlc” group-title="Deutsch" tvg-logo="0080.png",[COLOR orange]3+ HD[/COLOR]
+#EXTINF:-1 tvg-id=“vlc” ,[COLOR orange]OBN[/COLOR]
 http://portal.rapidiptv.com:8080/live/steph/steph/1457.ts
 #EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
 http://teleboy.customers.cdn.iptv.ch/1/1117/index.m3u8?p=127&c=t1&token=b443ca34ce6b9bbc4c4b17b3e2eb8ef5&expires=1447551553
