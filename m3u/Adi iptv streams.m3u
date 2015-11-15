@@ -1,63 +1,232 @@
-
-#EXTM3U
-#EXTINF:-1,ADI: RTL HD (German)
-http://62.65.140.215:80/session/78384356-8b39-11e5-a7dd-005056bc06d1/nvnv5a/1/1024/1368000/index.m3u8
-#EXTINF:-1,ADI: SuperRTL HD 
-http://62.65.140.215:80/session/45dad0f6-8b0a-11e5-9fa8-005056bc1a52/nvnv5a/1/1023/1368000/index.m3u8
-#EXTINF:-1,ADI: RTL II HD
-http://62.65.140.151:80/session/53573324-8af5-11e5-96cd-005056bc1a52/nvnv5a/1/1024/1368000/index.m3u8
-#EXTINF:-1,ADI: PRO 7
-http://62.65.140.148:80/session/01f19474-8af6-11e5-bca1-005056bc1a52/nvnv5a/1/1037/1368000/index.m3u8
-#EXTINF:-1,ADI: 3 Sat
-http://62.65.140.219:80/session/5632bb76-8af6-11e5-972c-005056bc1a52/nvnv5a/1/1117/1368000/index.m3u8
-#EXTINF:-1,ADI: MTV
-http://62.65.140.152:80/session/934819d4-8af6-11e5-babb-005056bc49ac/nvnv5a/1/1033/1368000/index.m3u8
-#EXTINF:-1,ADI: K11 Special
-http://62.65.140.150:80/session/6ae8efe4-8af7-11e5-98fd-005056bc1a52/nvnv5a/1/1038/1368000/index.m3u8
-#EXTINF:-1,ADI: 4+ HD
-http://62.65.140.154:80/session/ae6bda1a-8af7-11e5-98fd-005056bc1a52/nvnv5a/1/1031/1368000/index.m3u8
-#EXTINF:-1,ADI: Euro Sport
-http://62.65.140.153:80/session/eb2e581a-8af7-11e5-be70-005056bc1a52/nvnv5a/1/1051/1368000/index.m3u8
-#EXTINF:-1,ADI: VOX
-http://62.65.140.217:80/session/1367ccc6-8af8-11e5-9600-005056bc1a52/nvnv5a/1/1021/1368000/index.m3u8
-#EXTINF:-1,ADI: Disney
-http://62.65.140.150:80/session/6316b5a2-8af8-11e5-9bc3-005056bc06d1/nvnv5a/1/1124/1368000/index.m3u8
-#EXTINF:-1,ADI: 7MAX
-http://62.65.140.155:80/session/933d5ba0-8af8-11e5-9bc3-005056bc06d1/nvnv5a/1/1041/1368000/index.m3u8
-#EXTINF:-1,ADI:Kabel 1
-http://62.65.140.148:80/session/cf97e63a-8b0a-11e5-9fa8-005056bc1a52/nvnv5a/1/1039/1368000/index.m3u8
-#EXTINF:-1,ADI:SRF2
-http://62.65.140.217:80/session/0f2bd040-8b0b-11e5-9fa8-005056bc1a52/nvnv5a/1/1009/1368000/index.m3u8
-#EXTINF:-1,ADI:DMAX
-http://62.65.140.151:80/session/343e9e4e-8b0b-11e5-9fa8-005056bc1a52/nvnv5a/1/1018/1368000/index.m3u8
-#EXTINF:-1,ADI:RTLNITRO
-http://62.65.140.151:80/session/631c801e-8b0b-11e5-9fa8-005056bc1a52/nvnv5a/1/1027/1368000/index.m3u8
-#EXTINF:-1,ADI:VIVA
-http://62.65.140.149:80/session/9d4d2fe0-8b0b-11e5-9fa8-005056bc1a52/nvnv5a/1/1014/1368000/index.m3u8
-#EXTINF:-1,ADI:N-TV
-http://62.65.140.149:80/session/db9abed4-8b0b-11e5-af91-005056bc49ac/nvnv5a/1/1025/1368000/index.m3u8
-#EXTINF:-1,ADI:DeluxMusic
-http://62.65.140.217:80/session/fff930da-8b0b-11e5-af91-005056bc49ac/nvnv5a/1/1153/1368000/index.m3u8
-#EXTINF:-1,ADI:Tele5
-http://62.65.140.213:80/session/3dccea6e-8b0c-11e5-af91-005056bc49ac/nvnv5a/1/1090/1368000/index.m3u8
-#EXTINF:-1,ADI:Nickeldeon
-http://62.65.140.218:80/session/62cc7c12-8b0c-11e5-9157-005056bc49ac/nvnv5a/1/1004/1368000/index.m3u8
-#EXTINF:-1,ADI: BBC One (English)
-http://62.65.140.214:80/session/361960b2-8af9-11e5-91ef-005056bc06d1/nvnv5a/2/4017/1368000/index.m3u8
-#EXTINF:-1,ADI: AlJazeera
-http://62.65.140.218:80/session/1eb2aefa-8afa-11e5-974e-005056bc49ac/nvnv5a/2/4013/1368000/index.m3u8
-#EXTINF:-1,ADI:ITV
-http://62.65.140.151:80/session/43e89612-8afa-11e5-a25f-005056bc1a52/nvnv5a/2/4018/1368000/index.m3u8
-#EXTINF:-1,ADI:ITV 2
-http://62.65.140.155:80/session/60e86b20-8afa-11e5-a6e9-005056bc1a52/nvnv5a/2/4005/1368000/index.m3u8
-#EXTINF:-1,ADI:ITV 3
-http://62.65.140.153:80/session/7a002954-8afa-11e5-b9e7-005056bc49ac/nvnv5a/2/4025/1368000/index.m3u8
-#EXTINF:-1,ADI: BBC TWO
-http://62.65.140.155:80/session/a7945df4-8afa-11e5-b49a-005056bc06d1/nvnv5a/2/4012/1368000/index.m3u8
-#EXTINF:-1,ADI:BBC THREE
-http://62.65.140.216:80/session/c810fce0-8afa-11e5-b49a-005056bc06d1/nvnv5a/2/4008/1368000/index.m3u8
-#EXTINF:-1,ADI:CNBC
-http://62.65.140.215:80/session/dc10482c-8afa-11e5-b49a-005056bc06d1/nvnv5a/2/4001/1368000/index.m3u8
+#EXTM3U tvg-shift=1
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]IPTVSAGA (Marcello)[/COLOR]
+https://#
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0080.png",[COLOR orange]3+ HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1013/index.m3u8?p=127&c=t1&token=5e870ff0d8e0408b4204a5a1938f4940&expires=1447551553
+#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1117/index.m3u8?p=127&c=t1&token=b443ca34ce6b9bbc4c4b17b3e2eb8ef5&expires=1447551553
+#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0101.png",[COLOR orange]4+ HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1031/index.m3u8?p=127&c=t1&token=10dd26ad72c750cde0b749a07d3484bd&expires=1447551554
+#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0102.png",[COLOR orangered]5+[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1047/index.m3u8?p=127&c=t1&token=b4866906c3bc4cf212c13673a777fe75&expires=1447551554
+#EXTINF:-1 tvg-id="AlJazeeraArabe.nws" group-title="Deutsch" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4013/index.m3u8?p=127&c=t1&token=1fb0ae743e34895c4436d02e93945bf5&expires=1447551555
+#EXTINF:-1 tvg-id="AnixeHD.de" group-title="Deutsch" tvg-logo="0066.png",[COLOR orange]Anixe HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1134/index.m3u8?p=127&c=t1&token=21d149fc534c1a6f6af9866e0486b7fc&expires=1447551555
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orange]ARD HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/1165/index.m3u8?p=127&c=t1&token=10e63c00dc6caa0dc5e5af641ce6d720&expires=1447551556
+#EXTINF:-1 tvg-id="arte.fr" group-title="Deutsch" tvg-logo="0215.png",[COLOR orange]Arte HD FR[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2029/index.m3u8?p=127&c=t1&token=4f167941241fbd4a5a808db7b6ad2074&expires=1447551556
+#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR orange]Arte HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1150/index.m3u8?p=127&c=t1&token=535673d8a40dcd9c912d9b40d3d37560&expires=1447551557
+#EXTINF:-1 tvg-id="BBC1.uk" group-title="Deutsch" tvg-logo="0402.png",[COLOR orange]BBC1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4017/index.m3u8?p=127&c=t1&token=f7c0fea72b1e7de943d47f20b135864e&expires=1447551557
+#EXTINF:-1 tvg-id="BBC2.uk" group-title="Deutsch" tvg-logo="0404.png",[COLOR orange]BBC2 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4012/index.m3u8?p=127&c=t1&token=0afef961d11b108fed655f8843ef2699&expires=1447551557
+#EXTINF:-1 tvg-id="bbc3cbbc.uk" group-title="Deutsch" tvg-logo="0405.png",[COLOR orange]BBC3[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4008/index.m3u8?p=127&c=t1&token=b62994f6823cb9eb17c941b752f90cde&expires=1447551558
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" group-title="Deutsch" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4003/index.m3u8?p=127&c=t1&token=59ad1bd87f5e975ee5bd571dc4dfe114&expires=1447551558
+#EXTINF:-1 tvg-id="BR.de" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1112/index.m3u8?p=127&c=t1&token=2edc0af8f82c5d6752dc7c531c10150e&expires=1447551559
+#EXTINF:-1 tvg-id="canal9.fr" group-title="Deutsch" tvg-logo="0242.png",[COLOR gold]Canal 9[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2041/index.m3u8?p=127&c=t1&token=3bdd31300ccf0bf456ce65e16254b7fd&expires=1447551559
+#EXTINF:-1 tvg-id="CanalAlpha" group-title="Deutsch" tvg-logo="0246.png",[COLOR orangered]Canal Alpha[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2045/index.m3u8?p=127&c=t1&token=7a8bc5c5e0aff9fc5457bbc7ffa05e5b&expires=1447551560
+#EXTINF:-1 tvg-id="canale5.it" group-title="Deutsch" tvg-logo="0614.png",[COLOR orange]Canale 5 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3026/index.m3u8?p=127&c=t1&token=ea417ce15c5833785e384b565f0f71b4&expires=1447551560
+#EXTINF:-1 tvg-id="channel4.uk" group-title="Deutsch" tvg-logo="0414.png",[COLOR orange]Channel 4[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4022/index.m3u8?p=127&c=t1&token=723bb0d1c0a9ed02e7e253b1957973e2&expires=1447551561
+#EXTINF:-1 tvg-id="CHTVHD" group-title="Deutsch" tvg-logo="0000.png",[COLOR gold]CH TV HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1032/index.m3u8?p=127&c=t1&token=ab6492d388786f2a07584c7353ca8951&expires=1447551561
+#EXTINF:-1 tvg-id="Cielo" group-title="Deutsch" tvg-logo="0000.png",[COLOR orangered]Cielo[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3041/index.m3u8?p=127&c=t1&token=2c4ba4837d4cca645eeb564eb42278f0&expires=1447551562
+#EXTINF:-1 tvg-id="cnbc.uk" group-title="Deutsch" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4001/index.m3u8?p=127&c=t1&token=bb0de321088f71117b026d1bf1347547&expires=1447551562
+#EXTINF:-1 tvg-id="CNN.nws" group-title="Deutsch" tvg-logo="0423.png",[COLOR orangered]CNN[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4002/index.m3u8?p=127&c=t1&token=d8ac64402d433437002b1694aea48f26&expires=1447551563
+#EXTINF:-1 tvg-id="d8.fr" group-title="Deutsch" tvg-logo="0023.png",[COLOR orange]D8[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2018/index.m3u8?p=127&c=t1&token=508cb87ef083e74f22e4ffc46bcf2fc5&expires=1447551563
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" group-title="Deutsch" tvg-logo="0065.png",[COLOR orangered]Deluxe Music[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1153/index.m3u8?p=127&c=t1&token=0b566352b09a67b817d81b4179028e89&expires=1447551564
+#EXTINF:-1 tvg-id="disneychannel.de" group-title="Deutsch" tvg-logo="0036.png",[COLOR orange]Disney Channel[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1124/index.m3u8?p=127&c=t1&token=ff703724741133bdcc00e9b7c0ff882b&expires=1447551564
+#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR orangered]DMAX[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1018/index.m3u8?p=127&c=t1&token=a9f17a7ef1b0661f219f9481510cf2a1&expires=1447551565
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="Deutsch" tvg-logo="0035.png",[COLOR orange]EuroNews[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/104903/index.m3u8?p=127&c=t1&token=272c10be6201d240fe340762cf0e311a&expires=1447551565
+#EXTINF:-1 tvg-id="euronews.fr" group-title="Deutsch" tvg-logo="0237.png",[COLOR orangered]EuroNews-fr[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/104901/index.m3u8?p=127&c=t1&token=ad70e6d8db2f6c518db6386ba009bf45&expires=1447551566
+#EXTINF:-1 tvg-id="EuroNews" group-title="Deutsch" tvg-logo="0000.png",[COLOR gold]EuroNews-i[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/104902/index.m3u8?p=127&c=t1&token=0b3d338ad8929720c42149fe1b14fb9a&expires=1447551566
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="Deutsch" tvg-logo="0035.png",[COLOR orange]EuroNews[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1049/index.m3u8?p=127&c=t1&token=9d8a683a61361a5533c3daaa4def0297&expires=1447551566
+#EXTINF:-1 tvg-id="EuSp" group-title="Deutsch" tvg-logo="0000.png",[COLOR orangered]EuSp[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1051/index.m3u8?p=127&c=t1&token=0e3088967eda7380c5f624d4b33ed34a&expires=1447551567
+#EXTINF:-1 tvg-id="film4.uk" group-title="Deutsch" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4023/index.m3u8?p=127&c=t1&token=21c077d575ac78f5adb087bfa9ac9aa9&expires=1447551567
+#EXTINF:-1 tvg-id="france2.fr" group-title="Deutsch" tvg-logo="0204.png",[COLOR orange]France 2 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2028/index.m3u8?p=127&c=t1&token=dfc3d74acd9dbf187466ef137e1e395b&expires=1447551568
+#EXTINF:-1 tvg-id="france3.fr" group-title="Deutsch" tvg-logo="0205.png",[COLOR orangered]France 3[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2008/index.m3u8?p=127&c=t1&token=4cad551d30d58adacd644d34bdebf2a4&expires=1447551568
+#EXTINF:-1 tvg-id="france4.fr" group-title="Deutsch" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2009/index.m3u8?p=127&c=t1&token=1ee85ce5afe7d4e570a23ab7466918c4&expires=1447551569
+#EXTINF:-1 tvg-id="france5.fr" group-title="Deutsch" tvg-logo="0237.png",[COLOR orange]France 5[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2010/index.m3u8?p=127&c=t1&token=fc9e40ef0ac249fe44d630b1a33e2cc9&expires=1447551569
+#EXTINF:-1 tvg-id="France24.fr" group-title="Deutsch" tvg-logo="0236.png",[COLOR orange]France 24[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2007/index.m3u8?p=127&c=t1&token=9fb3f00c72189cfdc59bc01abc46cb85&expires=1447551570
+#EXTINF:-1 tvg-id="franceo.fr" group-title="Deutsch" tvg-logo="0226.png",[COLOR orange]France ‘[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2015/index.m3u8?p=127&c=t1&token=3e75c552f061dc003c89822156aa8563&expires=1447551570
+#EXTINF:-1 tvg-id="gulli.fr" group-title="Deutsch" tvg-logo="0225.png",[COLOR gold]Gulli[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2011/index.m3u8?p=127&c=t1&token=66ee10b4e9574091e5810278a0db3465&expires=1447551571
+#EXTINF:-1 tvg-id="italia1.it" group-title="Deutsch" tvg-logo="0615.png",[COLOR orangered]Italia 1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3028/index.m3u8?p=127&c=t1&token=5dc21622d1dfdf7b63b401a525872d47&expires=1447551571
+#EXTINF:-1 tvg-id="itv.uk" group-title="Deutsch" tvg-logo="0410.png",[COLOR orange]ITV1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4018/index.m3u8?p=127&c=t1&token=6c6ccf83c6be5851e7a01466ab80a209&expires=1447551571
+#EXTINF:-1 tvg-id="itv2.uk" group-title="Deutsch" tvg-logo="0411.png",[COLOR orange]ITV2[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4005/index.m3u8?p=127&c=t1&token=d51342195812a0ac37f66868ad32b0a2&expires=1447551572
+#EXTINF:-1 tvg-id="itv3.uk" group-title="Deutsch" tvg-logo="0412.png",[COLOR orange]ITV3[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/4025/index.m3u8?p=127&c=t1&token=b1850263155aa2b3980584233a07f813&expires=1447551572
+#EXTINF:-1 tvg-id="Joiz.ch" group-title="Deutsch" tvg-logo="0042.png",[COLOR orange]Joiz[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/1172/index.m3u8?p=127&c=t1&token=8faef7ceb51a77be9015b2739a124573&expires=1447551573
+#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0008.png",[COLOR orange]Kabel 1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1039/index.m3u8?p=127&c=t1&token=a75d16cdc7ab8bfa6fb1afa8160d1009&expires=1447551573
+#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0046.png",[COLOR orangered]KiKa HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1116/index.m3u8?p=127&c=t1&token=5974d21b05e132dad028abf834560fe3&expires=1447551574
+#EXTINF:-1 tvg-id="la7.it" group-title="Deutsch" tvg-logo="0617.png",[COLOR orange]LA7[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3027/index.m3u8?p=127&c=t1&token=8339d1aa7076728c63d00f2074e20afd&expires=1447551574
+#EXTINF:-1 tvg-id="latele.fr" group-title="Deutsch" tvg-logo="0049.png",[COLOR orange]la tÈlÈ[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2043/index.m3u8?p=127&c=t1&token=64d6cadc3aa94bbc2d737f975334291f&expires=1447551575
+#EXTINF:-1 tvg-id="lemanbleu.fr" group-title="Deutsch" tvg-logo="0245.png",[COLOR orange]lÈman bleu[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2044/index.m3u8?p=127&c=t1&token=dc5960bab957d4d610dbff5999644aa2&expires=1447551575
+#EXTINF:-1 tvg-id=""m6.fr" group-title="Deutsch" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2026/index.m3u8?p=127&c=t1&token=dcd63558ce4cf579ea20a098e3e388f6&expires=1447551576
+#EXTINF:-1 tvg-id="mdrhd.de" group-title="Deutsch" tvg-logo="0020.png",[COLOR orange]MDR[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1069/index.m3u8?p=127&c=t1&token=c089a255cbf88e06c98f7a681b6e707d&expires=1447551576
+#EXTINF:-1 tvg-id="MTVit" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]MTV it[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3009/index.m3u8?p=127&c=t1&token=4cff596c1f0a129a482316971ff58d61&expires=1447551576
+#EXTINF:-1 tvg-id="MTV" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]MTV[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1033/index.m3u8?p=127&c=t1&token=b57b0676cdfd00c6221c437583bf4384&expires=1447551577
+#EXTINF:-1 tvg-id="ntv.de" group-title="Deutsch" tvg-logo="0034.png",[COLOR orangered]n-tv[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1025/index.m3u8?p=127&c=t1&token=b39b37b8db6b8b25aa4e8eca15024e9f&expires=1447551577
+#EXTINF:-1 tvg-id="ndr.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR orange]NDR HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1115/index.m3u8?p=127&c=t1&token=311132408ecf5257826b7a78718e5163&expires=1447551578
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nick[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1004/index.m3u8?p=127&c=t1&token=bf6bf30f026d17fd948b71401135182a&expires=1447551578
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nick[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1034/index.m3u8?p=127&c=t1&token=428ad6ce2264251b314566624eff2373&expires=1447551579
+#EXTINF:-1 tvg-id="ORF1.de" group-title="Deutsch" tvg-logo="0071.png",[COLOR orange]ORF1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1010/index.m3u8?p=127&c=t1&token=4d82ce6004258efe83caf7ff93130623&expires=1447551579
+#EXTINF:-1 tvg-id="ORF2.de" group-title="Deutsch" tvg-logo="0073.png",[COLOR orange]ORF2 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1011/index.m3u8?p=127&c=t1&token=65160a3132ce393b4671658d5e106591&expires=1447551580
+#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR orange]PHOENIX HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1122/index.m3u8?p=127&c=t1&token=2bbb9682889394238b3804b27c987b46&expires=1447551580
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0007.png",[COLOR orange]Pro7 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1037/index.m3u8?p=127&c=t1&token=dd6c46a8381ea9caf7b8f45334609f85&expires=1447551580
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]Pro7Maxx[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1041/index.m3u8?p=127&c=t1&token=a46d1aefe10987bc582b51d7e1daf52c&expires=1447551581
+#EXTINF:-1 tvg-id="Puls8.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]Puls8[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/1053/index.m3u8?p=127&c=t1&token=a9b6df38199ae390a5b299549b8c9a95&expires=1447551581
+#EXTINF:-1 tvg-id="rai1.it" group-title="Deutsch" tvg-logo="0605.png",[COLOR orange]Rai1[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3003/index.m3u8?p=127&c=t1&token=fe66806e0f23b01a99cd4bf083bdb2ea&expires=1447551582
+#EXTINF:-1 tvg-id="rai2.it" group-title="Deutsch" tvg-logo="0606.png",[COLOR orange]Rai2[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3004/index.m3u8?p=127&c=t1&token=011c5edffc112c11a2db054d404be733&expires=1447551582
+#EXTINF:-1 tvg-id="rai3.it" group-title="Deutsch" tvg-logo="0607.png",[COLOR orange]Rai3[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3005/index.m3u8?p=127&c=t1&token=3488f540d6577e1401f40e0ef1bb5551&expires=1447551583
+#EXTINF:-1 tvg-id="rainews.it" group-title="Deutsch" tvg-logo="0613.png",[COLOR orangered]Rai News 24[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3018/index.m3u8?p=127&c=t1&token=4879fd1ae6b9f52e132c7af4dd181e90&expires=1447551583
+#EXTINF:-1 tvg-id="raisport1.it" group-title="Deutsch" tvg-logo="0611.png",[COLOR gold]Rai Sport 1[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3021/index.m3u8?p=127&c=t1&token=b4ab9eddbfeb47630fe5d1d05b53d3c1&expires=1447551584
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0615.png",[COLOR orange]Rete 4 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3032/index.m3u8?p=127&c=t1&token=ee6391b3c4d9df9b3bbcfbef51e6082a&expires=1447551584
+#EXTINF:-1 tvg-id="TSI1.ch" group-title="Deutsch" tvg-logo="0602.png",[COLOR orange]RSI LA 1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3045/index.m3u8?p=127&c=t1&token=05ac6ae05d1265ecd997b7c0bb62144b&expires=1447551585
+#EXTINF:-1 tvg-id="TSI2.ch" group-title="Deutsch" tvg-logo="0604.png",[COLOR orangered]RSI LA 2 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3046/index.m3u8?p=127&c=t1&token=2a5146d410701486f890fef45ebd1913&expires=1447551585
+#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0009.png",[COLOR orange]RTL 2 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1024/index.m3u8?p=127&c=t1&token=bed21001bf40d108c5cbe4ec7edad0a7&expires=1447551586
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR orangered]RTL 102.5[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3010/index.m3u8?p=127&c=t1&token=da1f9a52807a28bc8ffd3cb9b3befcfd&expires=1447551586
+#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0005.png",[COLOR orange]RTL HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1020/index.m3u8?p=127&c=t1&token=46009aadb5517b56d9346ea746e97141&expires=1447551586
+#EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL Nitro HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1027/index.m3u8?p=127&c=t1&token=e46e5da77af249496d067fe18f3dc12b&expires=1447551587
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]RTPi[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/5001/index.m3u8?p=127&c=t1&token=a8b8d0f967c10d387a264cf6f27a3a43&expires=1447551587
+#EXTINF:-1 tvg-id="TSR1.ch" group-title="Deutsch" tvg-logo="0211.png",[COLOR orangered]RTS 1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2034/index.m3u8?p=127&c=t1&token=e786e18d288d3c42dacdaf5002e53162&expires=1447551588
+#EXTINF:-1 tvg-id="TSR2.ch" group-title="Deutsch" tvg-logo="0213.png",[COLOR orange]RTS 2 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2035/index.m3u8?p=127&c=t1&token=9f4461ce436e474461cfd5d4d0ba00fa&expires=1447551588
+#EXTINF:-1 tvg-id="SuperRTL.de" group-title="Deutsch" tvg-logo="0045.png",[COLOR orangered]Super RTL HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1023/index.m3u8?p=127&c=t1&token=ad0258099ca9bbbc245bbb3d6ed53bcc&expires=1447551589
+#EXTINF:-1 tvg-id="S1.ch" group-title="Deutsch" tvg-logo="0081.png",[COLOR orange]S1[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1035/index.m3u8?p=127&c=t1&token=7407ba3f1206e2f2bd69b598027798fe&expires=1447551589
+#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0006.png",[COLOR orange]Sat.1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1038/index.m3u8?p=127&c=t1&token=29e6722f5d5b9a1eac7fb550bf56dfa6&expires=1447551590
+#EXTINF:-1 tvg-id="ServusHD.de" group-title="Deutsch" tvg-logo="0123.png",[COLOR orange]Servus TV HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1012/index.m3u8?p=127&c=t1&token=6cd88da219532ebfc9a2bb7102262676&expires=1447551590
+#EXTINF:-1 tvg-id="Sixx.de" group-title="FranÁais" tvg-logo="0037.png",[COLOR orange]sixx HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1040/index.m3u8?p=127&c=t1&token=932bedfc80bf90c91a51c60e435ec713&expires=1447551590
+#EXTINF:-1 tvg-id="Sport1HD.de" group-title="FranÁais" tvg-logo="0050.png",[COLOR orange]Sport1[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1095/index.m3u8?p=127&c=t1&token=e38b1c51bb4d1253580a3905ef04c38e&expires=1447551591
+#EXTINF:-1 tvg-id="SF1.ch" group-title="FranÁais" tvg-logo="0076.png",[COLOR orange]SRF 1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1008/index.m3u8?p=127&c=t1&token=cc2e2e245156274a501574238c05e428&expires=1447551591
+#EXTINF:-1 tvg-id="SF2.ch" group-title="FranÁais" tvg-logo="0078.png",[COLOR orange]SRF zwei HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1009/index.m3u8?p=127&c=t1&token=b70174c0ee59377a98016aadbcbc8285&expires=1447551592
+#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="FranÁais" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1003/index.m3u8?p=127&c=t1&token=117b3f0de4a8bb80d01dbaeec2caf4a5&expires=1447551592
+#EXTINF:-1 tvg-id="noepg.epg" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]StarTV[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1107/index.m3u8?p=127&c=t1&token=4454317722297524aa705a793a496845&expires=1447551593
+#EXTINF:-1 tvg-id="SWR.de" group-title="FranÁais" tvg-logo="0024.png",[COLOR orange]SWR-BW-HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1114/index.m3u8?p=127&c=t1&token=23dc1a4b0ec1207c7819704ac4ded9fd&expires=1447551593
+#EXTINF:-1 tvg-id="TBasel" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]TBasel[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1135/index.m3u8?p=127&c=t1&token=fedf0b15c2b1f274cebda21afcec0882&expires=1447551594
+#EXTINF:-1 tvg-id="TB‰rn" group-title="FranÁais" tvg-logo="0000.png",[COLOR orangered]TB‰rn[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1137/index.m3u8?p=127&c=t1&token=e988b611ece663685972f0d0231cf5ab&expires=1447551595
+#EXTINF:-1 tvg-id="Tele1" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]Tele1[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1128/index.m3u8?p=127&c=t1&token=fe3c9c4829ec89789461dcc2b32baed7&expires=1447551595
+#EXTINF:-1 tvg-id="Tele5.at" group-title="FranÁais" tvg-logo="0000.png",[COLOR orangered]Tele5[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1090/index.m3u8?p=127&c=t1&token=20d4c460254cccf88944a680195cb08d&expires=1447551596
+#EXTINF:-1 tvg-id="TeleBielingue" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]Tele Bielingue[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2040/index.m3u8?p=127&c=t1&token=f741b5e4aed5a17c77bcd56abc411e55&expires=1447551597
+#EXTINF:-1 tvg-id="TeleM1.ch" group-title="FranÁais" tvg-logo="0094.png",[COLOR orangered]Tele M1[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1132/index.m3u8?p=127&c=t1&token=0706052ce9c11e8a88cb14d34332600e&expires=1447551597
+#EXTINF:-1 tvg-id="TeleTicino" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]TeleTicino[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/3036/index.m3u8?p=127&c=t1&token=3a8536a234ad297d5a0c53d619ad76a4&expires=1447551598
+#EXTINF:-1 tvg-id="TeleTop" group-title="FranÁais" tvg-logo="0000.png",[COLOR orangered]TeleTop[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1129/index.m3u8?p=127&c=t1&token=69869cc35247a57d7b755e05b4a88133&expires=1447551598
+#EXTINF:-1 tvg-id="tf1.fr" group-title="FranÁais" tvg-logo="0202.png",[COLOR orange]TF1 HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2027/index.m3u8?p=127&c=t1&token=42c370af7c29d854ce2805fd287bbe0c&expires=1447551599
+#EXTINF:-1 tvg-id="TRT1" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]TRT1[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/5030/index.m3u8?p=127&c=t1&token=b1555db33e917d17fd125b42a6b16d51&expires=1447551600
+#EXTINF:-1 tvg-id="TSO" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]TSO[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1130/index.m3u8?p=127&c=t1&token=651d37046ba623f3bca41cc6adfdbdc9&expires=1447551600
+#EXTINF:-1 tvg-id="TV5" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]TV5[/COLOR] 
+http://teleboy.customers.cdn.iptv.ch/2/2006/index.m3u8?p=127&c=t1&token=730b571fdbcda4b60a25fa3fae9509e2&expires=1447551601
+#EXTINF:-1 tvg-id="TV24" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]TV24[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1042/index.m3u8?p=127&c=t1&token=9f699ea8c217ed523f2cfd8b88ac1a92&expires=1447551601
+#EXTINF:-1 tvg-id="TVEi" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]TVEi[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/5003/index.m3u8?p=127&c=t1&token=a7c1df6dc53e02f527f4f8af1c4fcd52&expires=1447551602
+#EXTINF:-1 tvg-id="TVO" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]TVO[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1131/index.m3u8?p=127&c=t1&token=8b75b2d0d61783127d12c3344c9662f1&expires=1447551602
+#EXTINF:-1 tvg-id="TZ¸ri" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]TZ¸ri[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/1160/index.m3u8?p=127&c=t1&token=74eb6d32e258f1dc6ced6102d60462fc&expires=1447551603
+#EXTINF:-1 tvg-id="VIVA" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]VIVA[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1014/index.m3u8?p=127&c=t1&token=43cbad231e466c32b09ece183a92fb3d&expires=1447551603
+#EXTINF:-1 tvg-id="VOXchHD" group-title="FranÁais" tvg-logo="0000.png",[COLOR orange]VOX HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1021/index.m3u8?p=127&c=t1&token=0ff4eff11ee2db6f72fbcb69f8afefd6&expires=1447551604
+#EXTINF:-1 tvg-id="W9.ch" group-title="FranÁais" tvg-logo="0226.png",[COLOR orange]W9[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/2022/index.m3u8?p=127&c=t1&token=ef2c714cb91f8d2d37691bf53282cf36&expires=1447551604
+#EXTINF:-1 tvg-id="WDR.de" group-title="FranÁais" tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR] 
+http://teleboy.customers.cdn.iptv.ch/1/1113/index.m3u8?p=127&c=t1&token=f506f28dadef5818f49ea0ef4ad4de43&expires=1447551605
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="FranÁais" tvg-logo="0057.png",[COLOR orangered]ZDF-Info[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1118/index.m3u8?p=127&c=t1&token=1640e45f24be5b694cea44561aff221e&expires=1447551605
+#EXTINF:-1 tvg-id="ZDFtheater.de" group-title="FranÁais" tvg-logo="0055.png",[COLOR orangered]zdf.kultur[/COLOR] 
+http://teleboy.customers.cdn.iptv.ch/1/1119/index.m3u8?p=127&c=t1&token=f19214b87a2cb73a838469942ca4c430&expires=1447551606
+#EXTINF:-1 tvg-id="ZDF.de" group-title="FranÁais" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/2/1166/index.m3u8?p=127&c=t1&token=0925b29a80262504b386e9eadffd9471&expires=1447551606
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="FranÁais" tvg-logo="0053.png",[COLOR orangered]ZDF neo[/COLOR]
+http://teleboy.customers.cdn.iptv.ch/1/1121/index.m3u8?p=127&c=t1&token=560557be211af7be42ec067739c3716e&expires=1447464022
 #EXTINF:-1,ADI:RTV SLON (EX-YU Cannels)
 http://xtv_slon_extrax.api.channel.livestream.com/3.0/playlist.m3u8
 
