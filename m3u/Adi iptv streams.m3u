@@ -1,12 +1,13 @@
-#EXTM3U tvg-shift=1
-#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]IPTVSAGA (Adi)[/COLOR]
-https://#
-#EXTINF:-1 tvg-id=“vlc” ,[COLOR orange]OBN[/COLOR]
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1457
+#EXTINF:10.0,
 http://portal.rapidiptv.com:8080/live/steph/steph/1457.ts
-#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
-http://teleboy.customers.cdn.iptv.ch/1/1117/index.m3u8?p=127&c=t1&token=b443ca34ce6b9bbc4c4b17b3e2eb8ef5&expires=1447551553
-#EXTINF:-1,ADI:RTV SLON (EX-YU Cannels)
-http://xtv_slon_extrax.api.channel.livestream.com/3.0/playlist.m3u8
-
-
+#EXTINF:2.188,
+http://d3fnzeq4kk32oq.cloudfront.net/802/chunk-20131128_0123_54676.ts
+#EXTINF:10.0,
+http://d3fnzeq4kk32oq.cloudfront.net/802/chunk-20131128_0123_54677.ts
+#EXT-X-ENDLIST
 
