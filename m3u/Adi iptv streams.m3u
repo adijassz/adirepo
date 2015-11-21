@@ -1,7 +1,5 @@
 #EXTM3U tvg-shift=1
-#EXTINF:-1 tvg-id="Phazer XML servis 4.6" group-title="Deutsch" tvg-logo="0000.png",[COLOR orange]IPTVSAGA (Adi)[/COLOR]
-https://#
-#EXTINF:-1 tvg-id=“nova.hr” group-title="Deutsch" tvg-logo="http://phazer.info/img/kanali/novatv.jpg",[COLOR orange]3+ HD[/COLOR]
-http://portal.rapidiptv.com:8080/live/steph/steph/1457.ts
+#EXTINF:-1, RTL
+http://62.65.140.154:80/session/bec7ba4e-9071-11e5-8c5c-005056bc49ac/nvnv5a/1/1020/1368000/index.m3u8
 #EXTINF:-1, SLON
 http://xtv_slon_extrax.api.channel.livestream.com/3.0/playlist.m3u8
