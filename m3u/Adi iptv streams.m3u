@@ -23,59 +23,115 @@ http://62.65.140.215:80/session/c6e211d4-907b-11e5-bd96-005056bc1a52/nvnv5a/1/10
 #EXTINF:-1, ORF EINS
 http://62.65.140.216:80/session/e450a33e-907b-11e5-a73a-005056bc06d1/nvnv5a/1/1010/1368000/index.m3u8
 
-#EXTINF:-1, TV Klan
-rtmp://184.73.176.206:55000/godoteklive/topchannel?setupbox=mag250
-
-#EXTINF:-1, TVSH
-rtmp://184.73.176.206:55000/godoteklive/klan?setupbox=mag250
-
-#EXTINF:-1, Alsat M
-rtmp://184.73.176.206:55000/godoteklive/tvsh?setupbox=mag250
-
-#EXTINF:-1, T Plus
-rtmp://184.73.176.206:55000/godoteklive/alsat?setupbox=mag250
-
-#EXTINF:-1, Bang Bang
-rtmp://184.73.176.206:55000/godoteklive/tplus?setupbox=mag250
-
-#EXTINF:-1, Top News
-rtmp://184.73.176.206:55000/godoteklive/bangbang?setupbox=mag250
-
-#EXTINF:-1, ABC News
-rtmp://184.73.176.206:55000/godoteklive/topnews?setupbox=mag250
-
-#EXTINF:-1, News 24
-rtmp://184.73.176.206:55000/godoteklive/abcnews?setupbox=mag250
-
-#EXTINF:-1, Ora News
-rtmp://184.73.176.206:55000/godoteklive/news24?setupbox=mag250
-
-#EXTINF:-1, EXP Histori
-rtmp://184.73.176.206:55000/godoteklive/oranews?setupbox=mag250
-
-#EXTINF:-1, EXP Shkenc
-rtmp://184.73.176.206:55000/godoteklive/histori?setupbox=mag250
-
-#EXTINF:-1, My Music
-rtmp://184.73.176.206:55000/godoteklive/shkenc?setupbox=mag250
-
-#EXTINF:-1, Music Al
-rtmp://184.73.176.206:55000/godoteklive/mymusic?setupbox=mag250
-
-#EXTINF:-1, RTV 21
-rtmp://184.73.176.206:55000/godoteklive/musical?setupbox=mag250
-
-#EXTINF:-1, KV
-rtmp://184.73.176.206:55000/godoteklive/rtv21?setupbox=mag250
-
-#EXTINF:-1, Albania
-rtmp://184.73.176.206:55000/godoteklive/ktv?setupbox=mag250
-
-#EXTINF:-1, Super sport 1
-rtmp://184.73.176.206:55000/godoteklive/albanianscreen?setupbox=mag250
-
-#EXTINF:-1, Super sport 2
-rtmp://184.73.176.206:55000/godoteklive/supersport1?setupbox=mag250
-
-#EXTINF:-1, Super sport 3
-rtmp://184.73.176.206:55000/godoteklive/supersport2?setupbox=mag250
+#EXTINF:2,ArenaSport 2
+http://212.200.101.3:5000/udp/237.0.0.2:5000
+#EXTINF:3,ArenaSport 3
+http://212.200.101.3:5000/udp/237.0.0.3:5000
+#EXTINF:4,ArenaSport 4
+http://212.200.101.3:5000/udp/237.0.0.4:5000
+#EXTINF:5,Pink2
+http://212.200.101.3:5000/udp/237.0.0.5:5000
+#EXTINF:6,Pink3 Info
+http://212.200.101.3:5000/udp/237.0.0.6:5000
+#EXTINF:7,Pink Music
+http://212.200.101.3:5000/udp/237.0.0.7:5000
+#EXTINF:8,Pink Music 2
+http://212.200.101.3:5000/udp/237.0.0.8:5000
+#EXTINF:9,Pink Hits
+http://212.200.101.3:5000/udp/237.0.0.9:5000
+#EXTINF:10,Pink Parada
+http://212.200.101.3:5000/udp/237.0.0.10:5000
+#EXTINF:11,Bravo
+http://212.200.101.3:5000/udp/237.0.0.11:5000
+#EXTINF:12,Pink Fashion
+http://212.200.101.3:5000/udp/237.0.0.12:5000
+#EXTINF:13,Pink Style
+http://212.200.101.3:5000/udp/237.0.0.13:5000
+#EXTINF:14,Pink Movies
+http://212.200.101.3:5000/udp/237.0.0.14:5000
+#EXTINF:15,Pink Action
+http://212.200.101.3:5000/udp/237.0.0.15:5000
+#EXTINF:16,Pink Film
+http://212.200.101.3:5000/udp/237.0.0.16:5000
+#EXTINF:17,Pink Western
+http://212.200.101.3:5000/udp/237.0.0.17:5000
+#EXTINF:18,Pink Classic
+http://212.200.101.3:5000/udp/237.0.0.18:5000
+#EXTINF:19,Pink Family
+http://212.200.101.3:5000/udp/237.0.0.19:5000
+#EXTINF:20,Pink Kids
+http://212.200.101.3:5000/udp/237.0.0.20:5000
+#EXTINF:21,Pink Plus
+http://212.200.101.3:5000/udp/237.0.0.21:5000
+#EXTINF:22,Pink Extra
+http://212.200.101.3:5000/udp/237.0.0.22:5000
+#EXTINF:23,Pink M
+http://212.200.101.3:5000/udp/237.0.0.23:5000
+#EXTINF:24,Pink BH
+http://212.200.101.3:5000/udp/237.0.0.24:5000
+#EXTINF:25,Pink Kuvar
+http://212.200.101.3:5000/udp/237.0.0.25:5000
+#EXTINF:26,Pink Serije
+http://212.200.101.3:5000/udp/237.0.0.26:5000
+#EXTINF:28,Pink Super Kids
+http://212.200.101.3:5000/udp/237.0.0.28:5000
+#EXTINF:29,Pink World Cinema
+http://212.200.101.3:5000/udp/237.0.0.29:5000
+#EXTINF:32,b92 Info
+http://212.200.101.3:5000/udp/237.0.0.32:5000
+#EXTINF:33,BN SAT
+http://212.200.101.3:5000/udp/237.0.0.33:5000
+#EXTINF:34,RTL
+http://212.200.101.3:5000/udp/237.0.0.34:5000
+#EXTINF:35,HRT2
+http://212.200.101.3:5000/udp/237.0.0.35:5000
+#EXTINF:36,SK1
+http://212.200.101.3:5000/udp/237.0.0.36:5000
+#EXTINF:37,SK2
+http://212.200.101.3:5000/udp/237.0.0.37:5000
+#EXTINF:38,SK3
+http://212.200.101.3:5000/udp/237.0.0.38:5000
+#EXTINF:39,Eurosport
+http://212.200.101.3:5000/udp/237.0.0.39:5000
+#EXTINF:40,¸Eurosport2
+http://212.200.101.3:5000/udp/237.0.0.40:5000
+#EXTINF:41,24 Kitchen
+http://212.200.101.3:5000/udp/237.0.0.41:5000
+#EXTINF:42,Animal Planet
+http://212.200.101.3:5000/udp/237.0.0.42:5000
+#EXTINF:43,Boomerang
+http://212.200.101.3:5000/udp/237.0.0.43:5000
+#EXTINF:44,CN
+http://212.200.101.3:5000/udp/237.0.0.44:5000
+#EXTINF:45,Discovery
+http://212.200.101.3:5000/udp/237.0.0.45:5000
+#EXTINF:46,Viasat Explore
+http://212.200.101.3:5000/udp/237.0.0.46:5000
+#EXTINF:47,Fox
+http://212.200.101.3:5000/udp/237.0.0.47:5000
+#EXTINF:48,Fox Crime
+http://212.200.101.3:5000/udp/237.0.0.48:5000
+#EXTINF:49,Fox Life
+http://212.200.101.3:5000/udp/237.0.0.49:5000
+#EXTINF:50,AMC
+http://212.200.101.3:5000/udp/237.0.0.50:5000
+#EXTINF:51,NGC
+http://212.200.101.3:5000/udp/237.0.0.51:5000
+#EXTINF:52,TLC
+http://212.200.101.3:5000/udp/237.0.0.52:5000
+#EXTINF:53,Viasat History
+http://212.200.101.3:5000/udp/237.0.0.53:5000
+#EXTINF:54,BBC World
+http://212.200.101.3:5000/udp/237.0.0.54:5000
+#EXTINF:55,CNN
+http://212.200.101.3:5000/udp/237.0.0.55:5000
+#EXTINF:56,LR
+http://212.200.101.3:5000/udp/237.0.0.56:5000
+#EXTINF:57,Minimax/Cinemania Plus
+http://212.200.101.3:5000/udp/237.0.0.57:5000
+#EXTINF:58,PRO7
+http://212.200.101.3:5000/udp/237.0.0.58:5000
+#EXTINF:59,Planeta RTR
+http://212.200.101.3:5000/udp/237.0.0.59:5000
+#EXTINF:60,Fight Network HD
+http://212.200.101.3:5000/udp/237.0.0.60:5000
