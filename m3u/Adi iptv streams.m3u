@@ -1,6 +1,6 @@
 #EXTM3U tvg-shift=1
 #EXTINF:-1, TV Zivinice
-http://original.livestream.com/embed/tvivinice?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=4&amp;t=139899
+http://original.livestream.com/embed/tvivinice
 
 #EXTINF:-1, SLON
 http://xtv_slon_extrax.api.channel.livestream.com/3.0/playlist.m3u8
