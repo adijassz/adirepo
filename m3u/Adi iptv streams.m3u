@@ -1,4 +1,16 @@
 #EXTM3U tvg-shift=1
 #EXTINF:-1, SLON
 http://xtv_slon_extrax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1, RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:-1, HTV 1
+http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/03.m3u8
+#EXTINF:-1, HTV 2
+http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/04.m3u8
+#EXTINF:-1, HTV 3
+http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/04.m3u8
+#EXTINF:-1, HTV 4
+http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/04.m3u8
+#EXTINF:-1, ALJAZERA
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live&amp;file=aljazeera_balkans_high&amp;type=rtmp&amp;autostart=true&amp;backcolor=#000000&amp;frontcolor=#cccccc&amp;lightcolor=#cccccc&amp;stretching=uniform
 
