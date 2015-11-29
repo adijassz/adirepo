@@ -11,6 +11,5 @@ http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/04.m3u8
 http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/04.m3u8
 #EXTINF:-1, HTV 4
 http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/04.m3u8
-#EXTINF:-1, ALJAZERA
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live&amp;file=aljazeera_balkans_high&amp;type=rtmp&amp;autostart=true&amp;backcolor=#000000&amp;frontcolor=#cccccc&amp;lightcolor=#cccccc&amp;stretching=uniform
-
+#EXTINF:-1, DOMACI
+https://youtu.be/Mdysgk7rRQ8?list=PL0800231113D0F33D
