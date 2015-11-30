@@ -11,7 +11,5 @@ http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/04.m3u8
 http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/04.m3u8
 #EXTINF:-1, HTV 4
 http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/04.m3u8
-#EXTINF:-1, CRNI GRUJA
-https%3A//www.youtube.com/0acea2bd-7c17-4f56-8b2f-450efba84aca
-#EXTINF:-1, CRNI GRUJA 1
-https://www.youtube.com/0acea2bd-7c17-4f56-8b2f-450efba84aca
+#EXTINF:-1, ALJAZEERA BALKANS
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
