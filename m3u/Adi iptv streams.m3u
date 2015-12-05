@@ -13,3 +13,6 @@ http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/04.m3u8
 http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/04.m3u8
 #EXTINF:-1, ALJAZEERA BALKANS
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
+#EXTINF:-1, RTL 
+http://62.65.140.215:80/session/765204b6-9b81-11e5-9bfe-005056bc1a52/nvnv5a/1/1020/1368000/index.m3u8
+
