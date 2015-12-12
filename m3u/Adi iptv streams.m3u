@@ -13,27 +13,5 @@ http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/04.m3u8
 http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/04.m3u8
 #EXTINF:-1, ALJAZEERA BALKANS
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
-#EXTINF:-1,neo/KiKA / ZDFmobil
-http://openelec:9981/stream/service/5531a310503abc702b2c1663f06244b1
-#EXTINF:-1,hr-fernsehen / SWR
-http://openelec:9981/stream/service/0acb9bf67b4f0327987752953d3d649c
-#EXTINF:-1,arte / SWR
-http://openelec:9981/stream/service/2192d1371f1204b0524a88fa84b80dba
-#EXTINF:-1,ZDFinfo / ZDFmobil
-http://openelec:9981/stream/service/d428f077d62ad6aba1ebf3e03b132fa8
-#EXTINF:-1,ZDF / ZDFmobil
-http://openelec:9981/stream/service/fd3997e86c3474d67c32107cff7a1204
-#EXTINF:-1,WDR Fernsehen / SWR
-http://openelec:9981/stream/service/cb55567db7f7557cf012d8b98ef63a53
-#EXTINF:-1,SWR Fernsehen BW / SWR
-http://openelec:9981/stream/service/15d8ad9135ee24f3d851c49a3ed2d182
-#EXTINF:-1,Phoenix / SWR
-http://openelec:9981/stream/service/5489739a41d85bb2344f2e940a7e8879
-#EXTINF:-1,EinsPlus / SWR
-http://openelec:9981/stream/service/82dd9277fa364a5d34640fec7671028a
-#EXTINF:-1,Das Erste / SWR
-http://openelec:9981/stream/service/693310a9b2a6137a96238355cceb94d9
-#EXTINF:-1,Bayerisches FS / SWR
-http://openelec:9981/stream/service/d4b2207d38be09113d9a7f8f2230b67c
-#EXTINF:-1,3sat / ZDFmobil
-http://openelec:9981/stream/service/7caf7bda8f6bf9d9914ea55bae2d4516
+#EXTINF:-1, RTL
+http://62.65.140.151:80/session/b012d70a-a10a-11e5-994d-005056bc06d1/nvnv5a/1/1020/1368000/index.m3u8
