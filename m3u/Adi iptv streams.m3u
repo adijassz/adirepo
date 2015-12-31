@@ -1,17 +1,27 @@
 #EXTM3U tvg-shift=1
 #EXTINF:-1, SLON
 http://xtv_slon_extrax.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1, RTRS
-http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
-#EXTINF:-1, HTV 1
-http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/03.m3u8
-#EXTINF:-1, HTV 2
-http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/04.m3u8
-#EXTINF:-1, HTV 3
-http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/04.m3u8
-#EXTINF:-1, HTV 4
-http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/04.m3u8
-#EXTINF:-1, ALJAZEERA BALKANS
-http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
-#EXTINF:-1, RTL
-http://62.65.140.151:80/session/b012d70a-a10a-11e5-994d-005056bc06d1/nvnv5a/1/1020/1368000/index.m3u8
+#EXTINF:-1, True Movies 1
+http://bit.ly/1Nb3qbw
+#EXTINF:-1, True Movies 2
+http://bit.ly/1NFMeMD
+#EXTINF:-1, Sky Movies Greats
+http://bit.ly/1NFLPtK
+#EXTINF:-1, Sky Family
+http://bit.ly/1IEcEy4
+#EXTINF:-1, Sky Comedy
+http://bit.ly/1RDWyXi
+#EXTINF:-1, Sky Atlantic
+http://bit.ly/21OjTtM
+#EXTINF:-1, Sky Movies SciFi Horror
+http://bit.ly/1Nb3nfJ
+#EXTINF:-1, Sky Action
+http://bit.ly/1OhxgZr
+#EXTINF:-1, Sky Movies Disney
+http://bit.ly/1SNKfGe
+#EXTINF:-1, Film4
+http://bit.ly/1ma2iw1
+#EXTINF:-1, TCM
+http://bit.ly/1lOh239
+#EXTINF:-1, SyFy 2
+http://bit.ly/21OjCHn
